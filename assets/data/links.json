@@ -3,7 +3,7 @@
     [
         {
             "name" : "GitHub",
-            "icon" : "", 
+            "icon" : "assets/images/github.svg", 
             "url" : "https://github.com/ff235/",
             "bgColour" : "#000000",
             "fgColour" : "#ffffff"
@@ -11,7 +11,7 @@
 
         {
             "name" : "UKC GitLab",
-            "icon" : "", 
+            "icon" : "assets/images/gitlab.svg", 
             "url" : "https://git.cs.kent.ac.uk/ff235",
             "bgColour" : "#000000",
             "fgColour" : "#ffffff"
@@ -19,7 +19,7 @@
 
         {
             "name" : "LinkedIn",
-            "icon" : "", 
+            "icon" : "assets/images/linkedin.svg", 
             "url" : "https://www.linkedin.com/in/filipfois/",
             "bgColour" : "#292961",
             "fgColour" : "#ffffff"

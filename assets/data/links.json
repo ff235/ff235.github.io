@@ -1,0 +1,22 @@
+{
+    "links" :
+    [
+        {
+            "name" : "GitHub",
+            "icon" : "", 
+            "url" : "https://github.com/ff235/"
+        }, 
+
+        {
+            "name" : "UKC GitLab",
+            "icon" : "", 
+            "url" : "https://git.cs.kent.ac.uk/ff235"
+        }, 
+
+        {
+            "name" : "LinkedIn",
+            "icon" : "", 
+            "url" : "https://www.linkedin.com/in/filipfois/"
+        }
+    ]
+}

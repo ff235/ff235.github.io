@@ -1,0 +1,35 @@
+{
+    "technologies" :
+    [
+        
+        {
+            "name":"Java",
+            "colour" : "#FF0000"
+        },    
+
+        {
+            "name":"Python",
+            "colour" : "#FF0000"
+        },    
+
+        {
+            "name":"Javascript",
+            "colour" : "#FF0000"
+        },    
+
+        {
+            "name":"CSS & HTML",
+            "colour" : "#FF0000"
+        },    
+
+        {
+            "name":"SQL",
+            "colour" : "#FF0000"
+        },    
+
+        {
+            "name":"PHP",
+            "colour" : "#FF0000"
+        }
+    ]
+}

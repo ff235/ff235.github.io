@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
-   sodipodi:docname="iconmonstr-linkedin-3.svg"
+   sodipodi:docname="gitlab.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata10">
@@ -22,13 +22,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs8" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#ff0000"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -40,15 +41,16 @@
      inkscape:window-height="1009"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="12.403831"
-     inkscape:cx="-4.0051659"
-     inkscape:cy="12.240664"
+     inkscape:zoom="24.807663"
+     inkscape:cx="4.4746955"
+     inkscape:cy="11.649859"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0" />
   <path
-     d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"
-     id="path2"
-     style="fill:#ffffff;fill-opacity:0.98000002" />
+     d="M 19,-4e-8 H 5.0000002 C 2.2390003,-4e-8 2.5e-7,2.2389999 2.5e-7,4.9999999 V 19 c 0,2.761 2.23900005,5 4.99999995,5 H 19 c 2.762001,0 5,-2.239 5,-5 V 4.9999999 C 24,2.2389999 21.762001,-4.0000001e-8 19,-4e-8 Z M 8.0000002,19 h -3 V 7.9999999 h 3 z m -1.5,-12.2680001 c -0.966,0 -1.75,-0.79 -1.75,-1.764 0,-0.974 0.784,-1.764 1.75,-1.764 0.9660001,0 1.75,0.79 1.75,1.764 0,0.974 -0.783,1.764 -1.75,1.764 z M 20,19 h -3 v -5.604 c 0,-3.368 -4,-3.113 -4,0 V 19 H 10 V 7.9999999 h 3 v 1.765 c 1.396,-2.586 7,-2.777 7,2.4760001 z"
+     id="path2-2"
+     style="fill:#ffffff;fill-opacity:0.98" />
 </svg>

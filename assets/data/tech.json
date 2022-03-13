@@ -4,32 +4,32 @@
         
         {
             "name":"Java",
-            "colour" : "#FF0000"
+            "colour" : "#ff6924"
         },    
 
         {
             "name":"Python",
-            "colour" : "#FF0000"
+            "colour" : "#124dff"
         },    
 
         {
             "name":"Javascript",
-            "colour" : "#FF0000"
+            "colour" : "#ffbb00"
         },    
 
         {
             "name":"CSS & HTML",
-            "colour" : "#FF0000"
+            "colour" : "#0068d6"
         },    
 
         {
             "name":"SQL",
-            "colour" : "#FF0000"
+            "colour" : "#e609e2"
         },    
 
         {
             "name":"PHP",
-            "colour" : "#FF0000"
+            "colour" : "#8a24ff"
         }
     ]
 }

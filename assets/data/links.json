@@ -4,19 +4,25 @@
         {
             "name" : "GitHub",
             "icon" : "", 
-            "url" : "https://github.com/ff235/"
+            "url" : "https://github.com/ff235/",
+            "bgColour" : "#000000",
+            "fgColour" : "#ffffff"
         }, 
 
         {
             "name" : "UKC GitLab",
             "icon" : "", 
-            "url" : "https://git.cs.kent.ac.uk/ff235"
+            "url" : "https://git.cs.kent.ac.uk/ff235",
+            "bgColour" : "#000000",
+            "fgColour" : "#ffffff"
         }, 
 
         {
             "name" : "LinkedIn",
             "icon" : "", 
-            "url" : "https://www.linkedin.com/in/filipfois/"
+            "url" : "https://www.linkedin.com/in/filipfois/",
+            "bgColour" : "#292961",
+            "fgColour" : "#ffffff"
         }
     ]
 }

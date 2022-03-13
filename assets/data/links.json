@@ -13,7 +13,7 @@
             "name" : "UKC GitLab",
             "icon" : "assets/images/gitlab.svg", 
             "url" : "https://git.cs.kent.ac.uk/ff235",
-            "bgColour" : "#000000",
+            "bgColour" : "#292961",
             "fgColour" : "#ffffff"
         }, 
 
@@ -21,7 +21,7 @@
             "name" : "LinkedIn",
             "icon" : "assets/images/linkedin.svg", 
             "url" : "https://www.linkedin.com/in/filipfois/",
-            "bgColour" : "#292961",
+            "bgColour" : "#2867b2",
             "fgColour" : "#ffffff"
         }
     ]

@@ -19,7 +19,7 @@
 
         {
             "name":"CSS & HTML",
-            "colour" : "#0068d6"
+            "colour" : "#00d5ff"
         },    
 
         {
@@ -30,6 +30,10 @@
         {
             "name":"PHP",
             "colour" : "#8a24ff"
+        }
+        {
+            "name":"JSON",
+            "colour" : "#747f91"
         }
     ]
 }

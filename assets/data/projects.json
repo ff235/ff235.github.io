@@ -1,0 +1,29 @@
+{
+    "projects" :
+    [
+        
+        {
+            "title":"Random Episode Selector",
+            "subheading" : "Recommends random episodes of a TV show",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "technologies" : ["JavaScript","HTML & CSS","JQuery","JSON"],
+            "image" : "https://ff235.github.io/assets/data/images/projects/thumbnail.png"
+        },    
+
+        {
+            "title":"GP Booking System",
+            "subheading" : "An interface for patients to book and view appointments with their GP",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "technologies" : ["Java","SQL"],
+            "image" : "https://ff235.github.io/assets/data/images/projects/thumbnail.png"
+        },    
+
+        {
+            "title":"Country Stats",
+            "subheading" : "Shows a table of data on countries provided by an API",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "technologies" : ["JavaScript","HTML & CSS","JQuery","JSON"],
+            "image" : "https://ff235.github.io/assets/data/images/projects/thumbnail.png"
+        }
+    ]
+}

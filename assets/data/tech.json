@@ -35,6 +35,11 @@
         {
             "name":"JSON",
             "colour" : "#747f91"
+        },    
+
+        {
+            "name":"CodeIgniter",
+            "colour" : "#ee4323"
         }
     ]
 }
